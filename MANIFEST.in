@@ -1,0 +1,2 @@
+recursive-include ipywidget_htmlevent/static *.*
+include ipywidget_htmlevent.json

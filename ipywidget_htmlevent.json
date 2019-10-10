@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "ipywidget_htmlevent/extension": true
+  }
+}
